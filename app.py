@@ -19,4 +19,5 @@ def index():
     return render_template('pag3.html')
 
 if __name__ == '__main__':
-    app.run(debug=true)
+    app.run(debug=True)
+
